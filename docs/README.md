@@ -1,12 +1,12 @@
 ---
 home: true
 pageClass: custom-page-class
-heroImage: /images/bg01.jpg
-heroAlt: Image
-tagline: null
+# heroImage: /images/bg01.jpg
+heroAlt: HeroImage
+tagline: 我想通了，就像我爱海，但我不能跳海。
 actions:
   - text: 快速上手
-    link: /zh/guide/getting-started.html
+    link: /guide/
     type: primary
   - text: 项目简介
     link: /guide/
@@ -25,4 +25,3 @@ footerHtml: true
 
 ---
 
-<!-- # Hello VuePress -->
