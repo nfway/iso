@@ -1,5 +1,5 @@
 ---
-sidebar: null
+sidebar: 'auto'
 next:
   text: bar
   link: /guide/bar.md

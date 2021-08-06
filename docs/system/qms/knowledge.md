@@ -1,7 +1,4 @@
----
-sidebar: null
----
-# foo
+# konwledge
 one test markdown file
 
 ## second title

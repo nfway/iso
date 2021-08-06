@@ -5,12 +5,10 @@ pageClass: custom-page-class
 heroAlt: HeroImage
 tagline: 我想通了，就像我爱海，但我不能跳海。
 actions:
-  - text: 快速上手
+  - text: 开始
     link: /guide/
     type: primary
-  - text: 项目简介
-    link: /guide/
-    type: secondary
+
 
 features:
   - title: 简洁至上
@@ -20,8 +18,8 @@ features:
   - title: 高性能
     details: VuePress 会为每个页面预渲染生成静态的 HTML，同时，每个页面被加载的时候，将作为 SPA 运行。
 
-footer: <a href='https://beian.miit.gov.cn'> 豫ICP备2021021619号-1</a>
-footerHtml: true
+footer: Yangmn @2021
+# footerHtml: true
 
 ---
 

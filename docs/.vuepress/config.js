@@ -3,52 +3,27 @@ module.exports = {
     title: 'Journey',
     description: 'vuepress 2.0',
     head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
-    dest: '${sourceDir}/dist',
+    dest: 'dist',
     // plugins: ['@vuepress/blog'],
     themeConfig: {
-
+        contributors: false,
+        lastUpdatedText:'上次更新',
         repo: 'https://github.com/18437951091/vuepress-starter',
         docsRepo: 'https://github.com/18437951091/vuepress-starter',
         docsBranch: 'main',
         docsDir: 'docs',
+        editLink: true,
+        editLinkText:'在Github中编辑此页',
         // https://github.com/18437951091/vuepress-starter/edit/main/docs/guide/README.md
         editLinkPattern: ':repo/edit/:branch/:path',
         // type: 'blog',
         logo: '/images/logo.png',
-        editLink: true,
-        sidebar: [
-            // SidebarItem
-            {
-                text: 'Foo',
-                link: '/foo/',
-                children: [],
-            },
-            {
-                text: 'Guide',
-                link: '/guide/',
-                children: [
-                    // SidebarItem
-                    {
-                        text: 'foo',
-                        link: '/guide/',
-                    },
-                    {
-                        text: 'bar',
-                        link: '/guide/bar.md',
-                    },
-                    {
-                        text: 'alpha',
-                        link: '/guide/alpha.md',
-                    },
-                    // 字符串 - 页面文件路径
-                ],
-            }
-        ],
+        sidebar:require('./sidebarConfigArray.js'),
         navbar: [
             // NavbarItem
             {
-                text: 'Foo',
-                link: '/foo/',
+                text: '体系',
+                link: '/system/',
             },
             // NavbarGroup
             {
