@@ -18,28 +18,7 @@ module.exports = {
         editLinkPattern: ':repo/edit/:branch/:path',
         // type: 'blog',
         logo: '/images/logo.png',
-        sidebar:require('./sidebarConfigArray.js'),
-        navbar: [
-            // NavbarItem
-            {
-                text: '体系',
-                link: '/system/',
-            },
-            // NavbarGroup
-            {
-                text: 'Guide',
-                children: [{
-                        text: 'foo',
-                        link: '/guide/foo.md'
-                    },
-                    {
-                        text: 'bar',
-                        link: '/guide/bar.md'
-                    },
-                ],
-            },
-            // 字符串 - 页面文件路径
-            // '/bar/README.md',
-        ],
+        sidebar:require('./sidebar.js'),
+        navbar: require('./navbar.js'),
     },
 }

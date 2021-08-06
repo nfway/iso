@@ -6,7 +6,7 @@ heroAlt: HeroImage
 tagline: 我想通了，就像我爱海，但我不能跳海。
 actions:
   - text: 开始
-    link: /guide/
+    link: /system/
     type: primary
 
 
