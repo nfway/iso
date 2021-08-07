@@ -6,7 +6,7 @@ heroAlt: HeroImage
 tagline: 我想通了，就像我爱海，但我不能跳海。
 actions:
   - text: 开始
-    link: /system/
+    link: /guide/
     type: primary
 
 
@@ -22,4 +22,46 @@ footer: Yangmn @2021
 # footerHtml: true
 
 ---
+_你好， {{ msg }}_
 
+<RedDiv>
+
+_当前计数为： {{ count }}_
+
+</RedDiv>
+
+<button @click="count++">点我！</button>
+
+<script>
+import { h, ref } from 'vue'
+
+const RedDiv = (_, ctx) => h(
+  'div',
+  {
+    class: 'red-div',
+  },
+  ctx.slots.default()
+)
+
+export default {
+  components: {
+    RedDiv,
+  },
+
+  setup() {
+    const msg = 'Markdown 中的 Vue'
+    const count = ref(0)
+
+    return {
+      msg,
+      count,
+    }
+  }
+}
+</script>
+
+<style>
+.red-div {
+  color: red;
+}
+</style>
