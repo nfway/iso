@@ -2,9 +2,14 @@ module.exports = [
     // NavbarItem
     {
         text: '体系',
-        children: [{
-                text: '资料整合',
-                children: ['/system/README.md'],
+        children: [
+            '/system/README.md',
+            {
+                text: '认证通用基础',
+                    children: [
+                    '/system/common/README.md',
+                    '/system/common/shortAnswer.md',
+                ],
             },
             {
                 text: '管理体系认证基础',
@@ -18,7 +23,6 @@ module.exports = [
                 children: [
                     '/system/qms/README.md',
                     '/system/qms/handbook.md',
-                    '/system/qms/knowledge.md',
                 ],
             },
             {
@@ -26,7 +30,6 @@ module.exports = [
                 children: [
                     '/system/ohsms/README.md',
                     '/system/ohsms/handbook.md',
-                    '/system/ohsms/knowledge.md',
                 ],
             },
         ],
@@ -44,5 +47,10 @@ module.exports = [
             },
         ],
     },
+    {
+        text:'做题',
+        link:'http://yangmn.com:8000'
+    },
+
 
 ]

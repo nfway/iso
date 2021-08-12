@@ -6,7 +6,7 @@ heroAlt: HeroImage
 tagline: 我想通了，就像我爱海，但我不能跳海。
 actions:
   - text: 开始
-    link: /guide/
+    link: /system/
     type: primary
 
 
@@ -18,7 +18,7 @@ features:
   - title: 高性能
     details: VuePress 会为每个页面预渲染生成静态的 HTML，同时，每个页面被加载的时候，将作为 SPA 运行。
 
-footer: Yangmn @2021
+footer: MIT Licensed | Copyright © 2021-present Yangmn
 # footerHtml: true
 
 ---

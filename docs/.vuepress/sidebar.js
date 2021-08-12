@@ -6,6 +6,13 @@ module.exports = {
             ]
         },
         {
+            text: '认证通用基础',
+            children: [
+                '/system/common/',
+                '/system/common/shortAnswer',
+            ],
+        },
+        {
             text: '管理体系基础',
             children: [
                 '/system/management/',
@@ -17,7 +24,6 @@ module.exports = {
             children: [
                 '/system/qms/README.md',
                 '/system/qms/handbook.md',
-                '/system/qms/knowledge.md',
             ],
         },
         {
@@ -25,7 +31,6 @@ module.exports = {
             children: [
                 '/system/ohsms/',
                 '/system/ohsms/handbook.md',
-                '/system/ohsms/knowledge.md',
             ],
         },
     ],

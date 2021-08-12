@@ -3,9 +3,13 @@
     // height: 100vh;
   }
 body{
-  min-height: 100vh;
+  // min-height: 100vh;
   // background:whitesmoke;
 }
 aside.sidebar{
     // background:whitesmoke;
+}
+:root{
+  --c-brand : #077;
+  --c-brand-light : darkcyan;
 }
