@@ -30,6 +30,7 @@ _当前计数为： {{ count }}_
 
 </RedDiv>
 
+
 <button @click="count++">点我！</button>
 
 <script>

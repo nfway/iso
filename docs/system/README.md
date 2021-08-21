@@ -63,3 +63,14 @@ tags:
 |[第六章-管理体系认证能力及认证过程](http://yangmn.com:3200/web/viewer.html?file=管理体系认证基础/第六章-管理体系认证能力及认证过程.pdf)|[第六章-管理体系认证能力及认证过程](http://yangmn.com:3200/web/管理体系认证基础/第六章-管理体系认证能力及认证过程.pdf)|
 |[第七章-管理体系专项认证技术](http://yangmn.com:3200/web/viewer.html?file=管理体系认证基础/第七章-管理体系专项认证技术.pdf)|[第七章-管理体系专项认证技术](http://yangmn.com:3200/web/管理体系认证基础/第七章-管理体系专项认证技术.pdf)|
 
+## 管理体系认证基础
+| PDF插件版      | 浏览器自适应版 |
+| ----------- | ----------- |
+|[管理体系认证基础完整版](http://yangmn.com:3200/web/viewer.html?file=管理体系认证基础/管理体系认证基础.pdf)|[管理体系认证基础完整版](http://yangmn.com:3200/web/管理体系认证基础/管理体系认证基础.pdf)|
+|[第一章-管理学基础](http://yangmn.com:3200/web/viewer.html?file=管理体系认证基础/第一章-管理学基础.pdf)|[第一章-管理学基础](http://yangmn.com:3200/web/管理体系认证基础/第一章-管理学基础.pdf)|
+|[第二章-管理体系概论](http://yangmn.com:3200/web/viewer.html?file=管理体系认证基础/第二章-管理体系概论.pdf)|[第二章-管理体系概论](http://yangmn.com:3200/web/管理体系认证基础/第二章-管理体系概论.pdf)|
+|[第三章-管理体系标准的高层结构](http://yangmn.com:3200/web/viewer.html?file=管理体系认证基础/第三章-管理体系标准的高层结构.pdf)|[第三章-管理体系标准的高层结构](http://yangmn.com:3200/web/管理体系认证基础/第三章-管理体系标准的高层结构.pdf)|
+|[第四章-特定管理体系特征及原理](http://yangmn.com:3200/web/viewer.html?file=管理体系认证基础/第四章-特定管理体系特征及原理.pdf)|[第四章-特定管理体系特征及原理](http://yangmn.com:3200/web/管理体系认证基础/第四章-特定管理体系特征及原理.pdf)|
+|[第五章-管理体系认证机构管理基础](http://yangmn.com:3200/web/viewer.html?file=管理体系认证基础/第五章-管理体系认证机构管理基础.pdf)|[第五章-管理体系认证机构管理基础](http://yangmn.com:3200/web/管理体系认证基础/第五章-管理体系认证机构管理基础.pdf)|
+|[第六章-管理体系认证能力及认证过程](http://yangmn.com:3200/web/viewer.html?file=管理体系认证基础/第六章-管理体系认证能力及认证过程.pdf)|[第六章-管理体系认证能力及认证过程](http://yangmn.com:3200/web/管理体系认证基础/第六章-管理体系认证能力及认证过程.pdf)|
+|[第七章-管理体系专项认证技术](http://yangmn.com:3200/web/viewer.html?file=管理体系认证基础/第七章-管理体系专项认证技术.pdf)|[第七章-管理体系专项认证技术](http://yangmn.com:3200/web/管理体系认证基础/第七章-管理体系专项认证技术.pdf)|
