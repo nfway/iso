@@ -1,17 +1,25 @@
 <template>
-  <p id="hitokoto"><a href="#" id="hitokoto_text">:D 获取中...</a></p>
+  <p id="hitokoto" v-text="poetry"></p>
+  <p style="text-align:right"> --- {{from_who}}  《{{from}}》</p>
 </template>
 
 <script setup>
-  
-  fetch('https://v1.hitokoto.cn')
+import { ref, onMounted } from 'vue'
+const poetry = ref('')
+const from = ref('')
+const from_who = ref('')
+
+onMounted(()=>{
+  fetch('https://v1.hitokoto.cn?c=d')
     .then(response => response.json())
     .then(data => {
-      const hitokoto = document.getElementById('hitokoto_text')
-      hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
-      hitokoto.innerText = data.hitokoto
+      poetry.value = data.hitokoto
+      from.value = data.from
+      from_who.value = data.from_who
     })
     .catch(console.error)
+})
+  
 </script>
 
 <style>
