@@ -6,7 +6,6 @@
   "devDependencies": {
     "vuepress": "^2.0.0-beta.24"
   },
-
   "dependencies": {
     "@vuepress/plugin-search": "2.0.0-beta.24"
   }

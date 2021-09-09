@@ -4,7 +4,21 @@ module.exports = {
     description: 'vuepress 2.0',
     head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
     dest: 'dist',
-    // plugins: ['@vuepress/blog'],
+    // // plugins: ['@vuepress/blog'],
+    // plugins: [
+    //     [
+    //       'vuepress-plugin-comment',
+    //       {
+    //         choosen: 'valine', 
+    //         // options选项中的所有参数，会传给Valine的配置
+    //         options: {
+    //           el: '#valine-vuepress-comment',
+    //           appId: 'ftWiQN6qAmslTonErANg8x2o-gzGzoHsz',// your appId
+    //           appKey: 'gJdazhgVsHC0kYTg8Il5eApA', // your appKey
+    //         }
+    //       }
+    //     ]
+    //   ],
     themeConfig: {
         contributors: false,
         lastUpdatedText:'上次更新',

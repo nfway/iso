@@ -36,7 +36,7 @@
     // helpers
 
     $toggler-size: 40px;
-    $toggler-color: white;
+    $toggler-color: darkcyan;
     $toggler-transition: transform .5s,
     top .5s;
 

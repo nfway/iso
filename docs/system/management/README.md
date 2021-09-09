@@ -96,15 +96,15 @@ f)基于过程方法的管理体系审核方法。
 
 ### 3.4 法律法规及规范性文件要求及其在审核中的应用 
 
-[《中华人民共和国民法典》第三编 合同 ](http://yangmn.com:3200/web/法规/中华人民共和国民法典.pdf)  
-[《中华人民共和国产品质量法》 ](http://yangmn.com:3200/web/法规/中华人民共和国产品质量法.pdf)  
-[《中华人民共和国计量法》 ](http://yangmn.com:3200/web/法规/中华人民共和国计量法.pdf)  
-[《中华人民共和国标准化法》 ](http://yangmn.com:3200/web/法规/中华人民共和国标准化法.pdf)  
-[《中华人民共和国劳动法》 ](http://yangmn.com:3200/web/法规/中华人民共和国劳动法.pdf)  
-[《中华人民共和国进出口商品检验法》 ](http://yangmn.com:3200/web/法规/中华人民共和国进出口商品检验法.pdf)  
-[《中华人民共和国行政许可法》 ](http://yangmn.com:3200/web/法规/中华人民共和国行政许可法.pdf)  
-[《中华人民共和国计量法实施细则》 ](http://yangmn.com:3200/web/法规/中华人民共和国计量法实施细则.pdf)  
-[《中华人民共和国标准化法实施条例》 ](http://yangmn.com:3200/web/法规/中华人民共和国标准化法实施条例.pdf)  
-[《中华人民共和国工业产品生产许可证管理条例》 ](http://yangmn.com:3200/web/法规/中华人民共和国工业产品生产许可证管理条例.pdf)  
-[《中华人民共和国认证认可条例》 ](http://yangmn.com:3200/web/法规/中华人民共和国认证认可条例.pdf)  
+[《中华人民共和国民法典》第三编 合同 ](http://public.yangmn.com/web/法规/中华人民共和国民法典.pdf)  
+[《中华人民共和国产品质量法》 ](http://public.yangmn.com/web/法规/中华人民共和国产品质量法.pdf)  
+[《中华人民共和国计量法》 ](http://public.yangmn.com/web/法规/中华人民共和国计量法.pdf)  
+[《中华人民共和国标准化法》 ](http://public.yangmn.com/web/法规/中华人民共和国标准化法.pdf)  
+[《中华人民共和国劳动法》 ](http://public.yangmn.com/web/法规/中华人民共和国劳动法.pdf)  
+[《中华人民共和国进出口商品检验法》 ](http://public.yangmn.com/web/法规/中华人民共和国进出口商品检验法.pdf)  
+[《中华人民共和国行政许可法》 ](http://public.yangmn.com/web/法规/中华人民共和国行政许可法.pdf)  
+[《中华人民共和国计量法实施细则》 ](http://public.yangmn.com/web/法规/中华人民共和国计量法实施细则.pdf)  
+[《中华人民共和国标准化法实施条例》 ](http://public.yangmn.com/web/法规/中华人民共和国标准化法实施条例.pdf)  
+[《中华人民共和国工业产品生产许可证管理条例》 ](http://public.yangmn.com/web/法规/中华人民共和国工业产品生产许可证管理条例.pdf)  
+[《中华人民共和国认证认可条例》 ](http://public.yangmn.com/web/法规/中华人民共和国认证认可条例.pdf)  
 《管理体系认证规则》  

@@ -6,9 +6,10 @@ module.exports = [
             '/system/README.md',
             {
                 text: '认证通用基础',
-                    children: [
+                children: [
                     '/system/common/README.md',
                     '/system/common/shortAnswer.md',
+                    '/system/common/2021_5_common.md',
                 ],
             },
             {
@@ -16,6 +17,7 @@ module.exports = [
                 children: [
                     '/system/management/README.md',
                     '/system/management/shortAnswer.md',
+                    '/system/management/2021_5_management.md',
                 ],
             },
             {
@@ -48,8 +50,8 @@ module.exports = [
         ],
     },
     {
-        text:'做题',
-        link:'http://yangmn.com:8000'
+        text: '练习',
+        link: 'http://yangmn.com:8000'
     },
 
 

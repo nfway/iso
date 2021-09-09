@@ -10,6 +10,7 @@ module.exports = {
             children: [
                 '/system/common/',
                 '/system/common/shortAnswer',
+                '/system/common/2021_5_common',
             ],
         },
         {
@@ -17,6 +18,7 @@ module.exports = {
             children: [
                 '/system/management/',
                 '/system/management/shortAnswer',
+                '/system/management/2021_5_management',
             ],
         },
         {

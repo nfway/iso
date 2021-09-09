@@ -1,6 +1,9 @@
 <template>
-  <p id="hitokoto" v-text="poetry"></p>
-  <p style="text-align:right"> --- {{from_who}}  《{{from}}》</p>
+  <div class="poetry">
+      <p id="hitokoto" v-text="poetry"></p>
+      <p style="text-align:right"><i>--- {{from_who}}  《{{from}}》</i> </p>
+  </div>
+
 </template>
 
 <script setup>
@@ -22,6 +25,13 @@ onMounted(()=>{
   
 </script>
 
-<style>
-
+<style lang="scss">
+  div.poetry{
+    padding: 5px 10px;
+    background: #0993;
+    backdrop-filter: blur(5px);
+    & p{
+      margin: 0px;
+    };
+  }
 </style>

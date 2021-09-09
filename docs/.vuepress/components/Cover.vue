@@ -1,6 +1,7 @@
 <template>
     <div class="cover_content">
         <div class="cover">
+            <Poetry />
             <Menu />
         </div>
         <div class="page_footer">
@@ -25,9 +26,11 @@
     .cover_content {
         width: 100%;
         height: calc( 100vh - var(--navbar-height));
+        min-height: 500px;
         left: 0;
+
         // top: -16px;
-        top: calc(var(--navbar-height) - 16px ); 
+        top: var(--navbar-height); 
         position: absolute;
         /* background: darkcyan; */
         z-index: -1;
@@ -36,20 +39,21 @@
     .cover {
         width: 100%;
         height: 100%;
-        background-image: url(//yangmn.com:3200/images/bg.jpg);
+        background-image: url(//yangmn.com:3200/images/屏幕截图17.png);
         background-repeat: no-repeat;
         background-size: cover;
-        background-position: right;
-    }
-
-    .dark .cover {
-        background-image: url(//yangmn.com:3200/images/dark_bg.jpg);
         background-position: center;
     }
 
+    .dark .cover {
+        background-image: url(//yangmn.com:3200/images/屏幕截图25.png);
+    }
+
     .page_footer {
+        background: #1114;
+        backdrop-filter: blur(5px);
         // font-size: 16px;
-        margin-top: -40px;
+        margin-top: -38px;
         padding: 8px 16px;
         display: flex;
         flex-direction: row;
@@ -78,7 +82,7 @@
         }
 
         .page_footer {
-            margin-top: -60px;
+            margin-top: -59px;
             flex-direction: column;
             justify-content: space-around;
         }
