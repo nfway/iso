@@ -4,6 +4,18 @@ module.exports = {
     description: 'vuepress 2.0',
     head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
     dest: 'dist',
+    plugins: [
+        [
+          '@vuepress/plugin-search',
+          {
+            locales: {
+              '/': {
+                placeholder: '搜索',
+              },
+            },
+          },
+        ],
+      ],
     // // plugins: ['@vuepress/blog'],
     // plugins: [
     //     [

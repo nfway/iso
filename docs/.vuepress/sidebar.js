@@ -9,8 +9,9 @@ module.exports = {
             text: '认证通用基础',
             children: [
                 '/system/common/',
-                '/system/common/shortAnswer',
+                '/system/common/termsAndDefinitions',
                 '/system/common/2021_5_common',
+                '/system/common/shortAnswer',
             ],
         },
         {
@@ -26,6 +27,7 @@ module.exports = {
             children: [
                 '/system/qms/README.md',
                 '/system/qms/handbook.md',
+                '/system/qms/2021_5_qms.md',
             ],
         },
         {
@@ -33,6 +35,8 @@ module.exports = {
             children: [
                 '/system/ohsms/',
                 '/system/ohsms/handbook.md',
+                '/system/ohsms/2021_5_ohsms.md',
+                '/system/ohsms/termsAndDefinitions',
             ],
         },
     ],

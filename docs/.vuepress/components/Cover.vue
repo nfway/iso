@@ -11,6 +11,7 @@
             <span>
                 <img src="/icon/copyright.svg" /> 2021-present Yangmn
             </span>
+
         </div>
     </div>
 
@@ -50,7 +51,7 @@
     }
 
     .page_footer {
-        background: #1114;
+        background: #aaa6;
         backdrop-filter: blur(5px);
         // font-size: 16px;
         margin-top: -38px;

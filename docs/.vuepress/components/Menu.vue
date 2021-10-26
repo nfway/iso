@@ -7,7 +7,7 @@
                 <a href='/system' >开始</a>
             </li>
             <li class='menu-item'>
-                <a  href='http://yangmn.com:8000/' target="_blank">题库</a>
+                <a  href='http://test.yangmn.com/' target="_blank">练习</a>
             </li>
             <li class='menu-item'>
                 <a  href='#' ></a>
