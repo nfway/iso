@@ -1,5 +1,6 @@
 ---
 title : 事件
+# sidebar : false
 ---
 
 ## 侧边栏不自动展开

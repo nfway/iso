@@ -9,7 +9,6 @@ module.exports = [
                 children: [
                     '/system/common/README.md',
                     '/system/common/termsAndDefinitions.md',
-                    '/system/common/2021_5_common.md',
                     '/system/common/shortAnswer.md',
                 ],
             },
@@ -18,7 +17,6 @@ module.exports = [
                 children: [
                     '/system/management/README.md',
                     '/system/management/shortAnswer.md',
-                    '/system/management/2021_5_management.md',
                 ],
             },
             {
@@ -26,7 +24,6 @@ module.exports = [
                 children: [
                     '/system/qms/README.md',
                     '/system/qms/handbook.md',
-                    '/system/qms/2021_5_qms.md',
                 ],
             },
             {
@@ -34,7 +31,6 @@ module.exports = [
                 children: [
                     '/system/ohsms/README.md',
                     '/system/ohsms/handbook.md',
-                    '/system/ohsms/2021_5_ohsms.md',
             ],
             },
         ],

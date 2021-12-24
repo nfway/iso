@@ -9,6 +9,8 @@ tags:
 ## 考试大纲及资料
 [认证通用基础考试大纲](http://public.yangmn.com/web/考试大纲及资料整理/认证通用基础考试大纲.pdf)
 
+[认证通用基础资料整理](http://public.yangmn.com/web/考试大纲及资料整理/认证通用基础资料整理.pdf)
+
 [质量管理体系考试大纲](http://public.yangmn.com/web/考试大纲及资料整理/质量管理体系基础考试大纲.pdf)
 
 [环境管理体系考试大纲](http://public.yangmn.com/web/考试大纲及资料整理/环境管理体系基础考试大纲.pdf)
@@ -17,7 +19,7 @@ tags:
 
 [管理体系认证基础考试大纲](http://public.yangmn.com/web/考试大纲及资料整理/管理体系认证基础考试大纲.pdf)
 
-[认证通用基础资料整理](http://public.yangmn.com/web/考试大纲及资料整理/认证通用基础资料整理.pdf)
+[质量管理体系 基础和术语](http://public.yangmn.com/web/考试大纲及资料整理/GBT_19000-2016.pdf)
 
 [质量管理体系手册](http://public.yangmn.com/web/考试大纲及资料整理/GBT_19001-2016.pdf)
 
@@ -51,18 +53,7 @@ tags:
 [第五章-认证人员的能力要求](http://public.yangmn.com/web/审核概论/第五章-认证人员的能力要求.pdf)
 
 *********
-<!-- 
-## 产品认证基础
-| PDF插件版      | 浏览器自适应版 |
-| ----------- | ----------- |
-|[产品认证基础完整版](http://public.yangmn.com/web/viewer.html?file=产品认证基础/产品认证基础.pdf)|[产品认证基础完整版](http://public.yangmn.com/web/产品认证基础/产品认证基础.pdf)|
-|[第一章-产品质量与符合性评价](http://public.yangmn.com/web/viewer.html?file=产品认证基础/第一章-产品质量与符合性评价.pdf)|[第一章-产品质量与符合性评价](http://public.yangmn.com/web/产品认证基础/第一章-产品质量与符合性评价.pdf)|
-|[第二章-产品认证概述](http://public.yangmn.com/web/viewer.html?file=产品认证基础/第二章-产品认证概述.pdf)|[第二章-产品认证概述](http://public.yangmn.com/web/产品认证基础/第二章-产品认证概述.pdf)|
-|[第三章-产品认证方案](http://public.yangmn.com/web/viewer.html?file=产品认证基础/第三章-产品认证方案.pdf)|[第三章-产品认证方案](http://public.yangmn.com/web/产品认证基础/第三章-产品认证方案.pdf)|
-|[第四章-产品认证机构的要求及管理](http://public.yangmn.com/web/viewer.html?file=产品认证基础/第四章-产品认证机构的要求及管理.pdf)|[第四章-产品认证机构的要求及管理](http://public.yangmn.com/web/产品认证基础/第四章-产品认证机构的要求及管理.pdf)|
-|[第五章-产品认证过程与关键技术](http://public.yangmn.com/web/viewer.html?file=产品认证基础/第五章-产品认证过程与关键技术.pdf)|[第五章-产品认证过程与关键技术](http://public.yangmn.com/web/产品认证基础/第五章-产品认证过程与关键技术.pdf)|
-|[第六章-产品认证工厂检查及其关键技术](http://public.yangmn.com/web/viewer.html?file=产品认证基础/第六章-产品认证工厂检查及其关键技术.pdf)|[第六章-产品认证工厂检查及其关键技术](http://public.yangmn.com/web/产品认证基础/第六章-产品认证工厂检查及其关键技术.pdf)|
-|[第七章-典型产品认证实施规则的案例介绍](http://public.yangmn.com/web/viewer.html?file=产品认证基础/第七章-典型产品认证实施规则的案例介绍.pdf)|[第七章-典型产品认证实施规则的案例介绍](http://public.yangmn.com/web/产品认证基础/第七章-典型产品认证实施规则的案例介绍.pdf)| -->
+
 
 ### 合格评定基础
 
@@ -104,7 +95,7 @@ tags:
 
 ### 质量管理方法与工具
 
-[第一章-概述](http://public.yangmn.com/web/质量管理方法与工具/第一章-.pdf)
+[第一章-概述](http://public.yangmn.com/web/质量管理方法与工具/第一章-概述.pdf)
 
 
 [第二章-质量管理工具的统计理论基础](http://public.yangmn.com/web/质量管理方法与工具/第二章-质量管理工具的统计理论基础.pdf)
@@ -128,3 +119,22 @@ tags:
 [第十一章-质量改进系统方法与工具](http://public.yangmn.com/web/质量管理方法与工具/第十一章-质量改进系统方法与工具.pdf)
 
 [第十二章-质量管理方法与工具的未来展望](http://public.yangmn.com/web/质量管理方法与工具/第十二章-质量管理方法与工具的未来展望.pdf)
+
+
+### 产品认证基础
+
+[产品认证基础完整版](http://public.yangmn.com/web/产品认证基础/产品认证基础.pdf)
+
+[第一章-产品质量与符合性评价](http://public.yangmn.com/web/产品认证基础/第一章-产品质量与符合性评价.pdf)
+
+[第二章-产品认证概述](http://public.yangmn.com/web/产品认证基础/第二章-产品认证概述.pdf)
+
+[第三章-产品认证方案](http://public.yangmn.com/web/产品认证基础/第三章-产品认证方案.pdf)
+
+[第四章-产品认证机构的要求及管理](http://public.yangmn.com/web/产品认证基础/第四章-产品认证机构的要求及管理.pdf)
+
+[第五章-产品认证过程与关键技术](http://public.yangmn.com/web/产品认证基础/第五章-产品认证过程与关键技术.pdf)
+
+[第六章-产品认证工厂检查及其关键技术](http://public.yangmn.com/web/产品认证基础/第六章-产品认证工厂检查及其关键技术.pdf)
+
+[第七章-典型产品认证实施规则的案例介绍](http://public.yangmn.com/web/产品认证基础/第七章-典型产品认证实施规则的案例介绍.pdf)

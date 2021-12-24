@@ -1,6 +1,6 @@
 module.exports = {
     '/system/': [{
-            text: '体系大纲',
+            text: '审核员考试',
             children: [
                 '/system/',
             ]
@@ -10,7 +10,6 @@ module.exports = {
             children: [
                 '/system/common/',
                 '/system/common/termsAndDefinitions',
-                '/system/common/2021_5_common',
                 '/system/common/shortAnswer',
             ],
         },
@@ -19,7 +18,6 @@ module.exports = {
             children: [
                 '/system/management/',
                 '/system/management/shortAnswer',
-                '/system/management/2021_5_management',
             ],
         },
         {
@@ -27,7 +25,6 @@ module.exports = {
             children: [
                 '/system/qms/README.md',
                 '/system/qms/handbook.md',
-                '/system/qms/2021_5_qms.md',
             ],
         },
         {
@@ -35,7 +32,6 @@ module.exports = {
             children: [
                 '/system/ohsms/',
                 '/system/ohsms/handbook.md',
-                '/system/ohsms/2021_5_ohsms.md',
                 '/system/ohsms/termsAndDefinitions',
             ],
         },
@@ -44,7 +40,8 @@ module.exports = {
         text: '记录',
         children: [
             'README.md',
-            'thing.md'
+            'thing.md',
+            'test.md',
         ],
     }, ]
 
